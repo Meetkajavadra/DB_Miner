@@ -1,16 +1,6 @@
 # animal_biography
 
-A new Flutter project.
+<img src = "https://user-images.githubusercontent.com/113905423/211481485-1f1aa968-8294-488d-b936-5c40d4a5fa30.png" height = 500 width = 250>
+<img src = "https://user-images.githubusercontent.com/113905423/211481541-24999e05-bdb1-421d-9b70-b784073b54c7.png" height = 500 width = 250>
+<img src = "https://user-images.githubusercontent.com/113905423/211481588-d5922922-bd83-46af-bfc3-fd465c374d69.png" height = 500 width = 250>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
